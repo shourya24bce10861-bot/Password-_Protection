@@ -1,0 +1,5 @@
+echo "*.class" > .gitignore
+echo "*.db" >> .gitignore
+echo "*.sqlite" >> .gitignore
+
+2
